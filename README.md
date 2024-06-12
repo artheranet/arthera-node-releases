@@ -1,2 +1,3 @@
-# arthera-node-releases
-Release binaries for arthera-node
+# Repository for Arthera node releases
+
+Archive of release binaries
